@@ -14,7 +14,7 @@ public class App {
    //    It carries out the binary search.
    //    It returns the index of the given number.
    //    If the given number is not in the array, it returns -1.
-   //    The array needs to pe sorted.
+   //    The array needs to be sorted.
    //       Parameters:
    //       number - the number, we want to get index of.
    //       arr - the array, we want to search through.
